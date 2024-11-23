@@ -1,2 +1,2 @@
-# Mobile-Communication-and-Computin-IT3133
-Data Transfer Parent to Child using Props
+# Mobile-Communication-and-Computing-IT3133
+# Data Transfer Parent to Child using Props
