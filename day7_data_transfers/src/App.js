@@ -11,6 +11,7 @@ return (
 <>
 <h1>Hi Im the react parent</h1>
 <Childcom setFun={receivename}/>
+<p>parent:My child said:{childname}</p>
 
 </>
 );
